@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 ## Bit Manipulation
 |  |
