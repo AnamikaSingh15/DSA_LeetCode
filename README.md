@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3024-type-of-triangle) |
@@ -82,4 +83,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
