@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3024-type-of-triangle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sorting
 |  |
 | ------- |
