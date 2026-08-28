@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0344-reverse-string) |
