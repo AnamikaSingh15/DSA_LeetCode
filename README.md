@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
+| [0088-merge-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0896-monotonic-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [3024-type-of-triangle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3024-type-of-triangle) |
 ## Polygons
@@ -64,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
