@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
+| [0940-distinct-subsequences-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
+| [0940-distinct-subsequences-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1872-stone-game-viii) |
 ## Recursion
 |  |
