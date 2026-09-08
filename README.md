@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2652-sum-multiples) |
 | [3024-type-of-triangle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3870-count-commas-in-range](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Array
