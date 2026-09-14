@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
+| [0836-rectangle-overlap](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
 | [1872-stone-game-viii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1872-stone-game-viii) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2652-sum-multiples](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2652-sum-multiples) |
@@ -199,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
