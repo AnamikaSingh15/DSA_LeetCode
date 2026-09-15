@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-distinct-subsequences-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Queue
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0509-fibonacci-number) |
 | [0940-distinct-subsequences-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1872-stone-game-viii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0055-jump-game) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
