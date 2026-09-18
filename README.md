@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0115-distinct-subsequences](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0344-reverse-string) |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
