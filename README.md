@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0940-distinct-subsequences-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3024-type-of-triangle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3024-type-of-triangle) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Polygons
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0055-jump-game) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
