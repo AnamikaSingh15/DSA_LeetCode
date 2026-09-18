@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0027-remove-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0055-jump-game](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Stack
