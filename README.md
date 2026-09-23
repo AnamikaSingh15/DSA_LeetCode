@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0835-image-overlap) |
 | [0896-monotonic-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0896-monotonic-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1872-stone-game-viii) |
 | [2643-row-with-maximum-ones](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2643-row-with-maximum-ones) |
 | [3024-type-of-triangle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3024-type-of-triangle) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Matrix
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Dynamic Programming
 |  |
@@ -188,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1872-stone-game-viii) |
 | [3904-smallest-stable-index-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/3904-smallest-stable-index-ii) |
 ## Game Theory
