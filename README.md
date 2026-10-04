@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0013-roman-to-integer) |
+| [0076-minimum-window-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0387-first-unique-character-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0076-minimum-window-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0115-distinct-subsequences) |
 | [0151-reverse-words-in-a-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0344-reverse-string) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0567-permutation-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0567-permutation-in-string) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
