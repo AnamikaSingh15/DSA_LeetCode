@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0835-image-overlap](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0835-image-overlap) |
 | [0875-koko-eating-bananas](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0875-koko-eating-bananas) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0238-product-of-array-except-self) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1872-stone-game-viii) |
