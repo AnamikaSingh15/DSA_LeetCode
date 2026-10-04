@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
+| [0015-3sum](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0169-majority-element) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
