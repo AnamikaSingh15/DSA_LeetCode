@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0055-jump-game](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0074-search-a-2d-matrix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0240-search-a-2d-matrix-ii) |
