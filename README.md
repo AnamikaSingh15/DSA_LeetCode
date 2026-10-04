@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0014-longest-common-prefix) |
 | [0027-remove-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0141-linked-list-cycle) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 ## Simulation
@@ -181,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0070-climbing-stairs) |
 | [0115-distinct-subsequences](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0115-distinct-subsequences) |
@@ -284,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0141-linked-list-cycle) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/AnamikaSingh15/DSA_LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
